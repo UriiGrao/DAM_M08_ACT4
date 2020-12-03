@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">DAM_M08_ACT4</string>
+    <string name="welcome_to_catcher_fruit">Welcome to Catcher Fruit!</string>
+    <string name="select_the_difficulty">Select the Difficulty</string>
+    <string name="start">Start!</string>
+    <string-array name="spinnerDifficult">
+        <item>Hard</item>
+        <item>Normal</item>
+        <item>Easy</item>
+    </string-array>
 </resources>
