@@ -1,2 +1,1 @@
-include ':app'
-rootProject.name = "DAM_M08_ACT4"
+include 'android', 'core'
